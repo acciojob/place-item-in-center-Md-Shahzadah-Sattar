@@ -9,6 +9,7 @@
 }
 .item-1{
 	background-color:red;
+	align-item:center;
 	width:100px;
 	height:100px;
 }
